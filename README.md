@@ -6,6 +6,7 @@ Documentation for the framework can be found on the [Lumen website](https://lume
 
 ## Setup
 
+- `cp .env.example .env`
 - set .env files for your local setup
 - `composer install`
 - `php artisan migrate:fresh`
