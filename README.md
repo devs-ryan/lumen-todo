@@ -13,7 +13,7 @@ Documentation for the framework can be found on the [Lumen website](https://lume
 
 ## Auth
 
-- The response from register/login routes returns user details with a `api_token` that needs to be sent on all Todo Notes routes
+- The response from register/login routes returns user details with a `api_token` that needs to be sent on all Todo Notes requests
 
 ## Routes
 
